@@ -37,6 +37,8 @@
     </footer>
 </body>
 </html>
+style.css
+<link rel="stylesheet" href="css/styles.css">
 body {
     font-family: Arial, sans-serif;
     margin: 0;
